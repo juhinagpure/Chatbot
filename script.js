@@ -1,7 +1,7 @@
 function talk() {
   var know = {
-    "Who are you": "Hello, juhi here",
-    "How are you": "Good :)",
+    "Who are you": "Hello, juhi here🌸",
+    "How are you": "Good :)😊",
     "Your favourite Cricket Team": "My favorite cricket team is Mumbai Indians",
     ok: "Thank You So Much ",
     Bye: "Okay! Will meet soon..",
